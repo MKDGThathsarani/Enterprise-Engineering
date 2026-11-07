@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59ddbfea-aad6-4a52-9857-a68a9d878965" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Backend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/src/main/java/org/example/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/src/main/java/org/example/controller/ItemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/src/main/java/org/example/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/src/main/java/org/example/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/src/main/java/org/example/model/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/src/main/java/org/example/model/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/src/main/java/org/example/service/CustomerServiices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/src/main/java/org/example/service/impl/CustomerServiicesImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/src/main/java/org/example/service/impl/ItemServicesImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/src/main/java/org/example/service/impl/OrderServicesImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Backend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -54,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/ICET/EnterPrise Engineering/Support Session/Day_(2026.10.18)/Custermer EE_SP/src/main/java/org/example/Main.java"
   }
@@ -70,6 +54,11 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Custermer EE_SP" />
+      <option name="filePath" />
+      <method v="2" />
     </configuration>
   </component>
   <component name="TaskManager">
